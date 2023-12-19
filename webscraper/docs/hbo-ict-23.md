@@ -1,0 +1,1 @@
+* Vrijdag: is evaluatiedag! Ken je alles, is alles af? En hoe ging de samenwerking in je groep? Vandaag draait het ook om je 'professional skills'. Je laat zien wat je hebt gedaan. Of een ervaren ict’er komt vertellen over zijn werk.

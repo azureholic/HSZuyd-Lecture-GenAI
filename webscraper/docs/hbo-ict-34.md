@@ -1,0 +1,2 @@
+* **Human Computer Interaction:**  we bekijken hoe je technologie afstemt op de mens. En dus niet andersom!
+* **Security & Cloud:** we gaan aan de slag met cloudomgevingen en leren je hoe je ervoor zorgt dat de ict van organisaties veilig is.

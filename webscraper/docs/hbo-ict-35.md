@@ -1,0 +1,1 @@
+* **Data engineering:  **grote hoeveelheden complexe data beschikbaar maken voor bijvoorbeeld artificial intelligence en data science. Daarmee houdt een data engineer zich bezig.

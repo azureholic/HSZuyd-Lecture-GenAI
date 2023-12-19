@@ -1,1 +1,0 @@
-klantgericht werken en projectmanagement.

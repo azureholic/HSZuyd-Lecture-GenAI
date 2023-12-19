@@ -1,2 +1,0 @@
-* Woensdag: vandaag gaat iedereen zelfstandig aan de slag. Jij bepaalt zelf hoe je je dag inricht.
-* Donderdag: je past toe wat je tot nu toe geleerd hebt. In een groep van 4 studenten werk je aan een project, je bouwt bijvoorbeeld een robot.

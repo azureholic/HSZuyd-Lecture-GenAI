@@ -1,5 +1,0 @@
-openai 
-langchain 
-playwright 
-beautifulsoup4
-html2text

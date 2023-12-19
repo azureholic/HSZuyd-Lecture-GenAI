@@ -1,1 +1,0 @@
-Daarom hou je in je eigen portfoliomap bij wat je hebt gedaan.

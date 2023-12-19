@@ -1,1 +1,0 @@
-* Als je je keuzevakken slim kiest, kun je met je diploma op zak meteen een universitaire master gaan doen.

@@ -1,1 +1,0 @@
-* Cybersecurity: Je ontwerpt en bouwt een technische security architectuur op basis van een analyse van een informatiebeveiligingsplan. Je zorgt ervoor dat dit onderdeel van de ict-dienstverlening een centrale plek krijgt in een organisatie.

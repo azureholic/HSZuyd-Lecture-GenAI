@@ -1,5 +1,4 @@
 from langchain.document_loaders import AsyncChromiumLoader
-from langchain.document_transformers import BeautifulSoupTransformer
 from langchain.document_transformers import Html2TextTransformer
 from langchain.text_splitter import MarkdownHeaderTextSplitter
 

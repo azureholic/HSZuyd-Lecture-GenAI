@@ -3,4 +3,5 @@ openai
 langchain 
 playwright 
 html2text
+pymongo
 
